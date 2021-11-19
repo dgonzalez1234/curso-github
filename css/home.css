@@ -1,0 +1,35 @@
+/* 
+    --flickr-pink: #f72585;
+    --purple: #7209b7;
+    --trypan-blue: #3a0ca3;
+    --ultramarine-blue: #4361ee;
+    --vivid-sky-blue: #4cc9f0; 
+*/
+
+.section__header__container--blue{
+    display: flex;
+    justify-content: center;
+    background-color: #3A0CA3;
+    color:white;
+}
+.section__header__container--carmine{
+    display: flex;
+    justify-content: center;
+    background-color: #F72585;
+    color:white;
+}
+
+.section__header--content{
+    text-align: center;
+}
+.section__titulo--repository{
+    font-family: 'Bangers', cursive;
+}
+.section__titulo--subtitle{
+    font-family: 'Roboto', sans-serif;
+}
+.section__titulo--content{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
